@@ -1,5 +1,5 @@
 # Start with updating your apt cache
-apt udpate
+apt update
 
 # Most important is the wget
 apt install -y wget
